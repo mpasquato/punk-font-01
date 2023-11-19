@@ -6,7 +6,7 @@ A grotesk font with a punk attitude, no expectations and CAPS ONLY.
 
 Font Forge was used to create the font.
 
-In the 'characters-reference' folder letters created in Illustrator can be found. These were exported and used in Font Forge to compile the font. 
+In the `characters-reference` folder letters created in Illustrator can be found. These were exported and used in Font Forge to compile the font. 
 
 A lot of things are missing:
 - Numbers
